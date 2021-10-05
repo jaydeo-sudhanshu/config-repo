@@ -1,0 +1,6 @@
+spring:
+	application:
+		name: StudentService
+
+student:
+	name: "Sudhanshu Faculty"
