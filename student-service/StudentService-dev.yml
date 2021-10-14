@@ -1,6 +1,2 @@
-spring:
-	application:
-		name: StudentService
-
 student:
-	name: "Sudhanshu Deo"
+  name: SudhanshuDeo
