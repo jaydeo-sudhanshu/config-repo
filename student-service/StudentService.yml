@@ -1,6 +1,6 @@
 spring:
-	application:
-		name: StudentService
+     application:
+          name: StudentService
 
 student:
-	name: "Sudhanshu kumar"
+     name: Sudhanshu kumar
